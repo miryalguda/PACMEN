@@ -1,4 +1,4 @@
-<script>
+
     var pos = 0;
     const pacArray = [
         ['PacMan1.png', 'PacMan2.png'],
@@ -58,4 +58,3 @@
     function makeOne() {
         pacMen.push(makePac()); // add a new PacMan
     }
-</script>
